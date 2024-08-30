@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+
+- 💻 I'm taking the "Communicate using Markdown" course in skills.github.com.
+- 📖 I'm reading the book "CompTIA A+ Certification All-in-One Exam Guide" by Mike Meyers.
+- 🎓 I'm learning cybersecurity at Queensborough community college.
 
 <!--
 **jhonatanparada499/jhonatanparada499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
