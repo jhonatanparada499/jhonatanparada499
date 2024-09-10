@@ -1,6 +1,5 @@
 ## About me
 
-- 💻 I'm taking the "codespace" course in skills.github.com.
 - 📖 I'm reading the book "CompTIA A+ Certification All-in-One Exam Guide" by Mike Meyers.
 - 🎓 I'm learning cybersecurity at Queensborough community college.
 
