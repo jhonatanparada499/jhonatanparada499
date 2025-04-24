@@ -1,7 +1,6 @@
 ## About me
 
-- 📖 I'm reading the book "CompTIA A+ Certification All-in-One Exam Guide" by Mike Meyers.
-- 🎓 I'm learning cybersecurity at Queensborough community college.
+Cybersecurity student with a strong analytical mindset and dedication to troubleshooting and optimizing solutions. Skilled in computer networking, protocols and multiple operating systems including Windows, Ubuntu and Cisco IOS. Adept at documenting findings, reporting technical issues, and improving workflows.
 
 <!--
 **jhonatanparada499/jhonatanparada499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
