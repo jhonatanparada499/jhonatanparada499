@@ -1,6 +1,6 @@
 ## About me
 
-Cybersecurity student with a strong analytical mindset and dedication to troubleshooting and optimizing solutions. Skilled in computer networking, protocols and operating systems. Adept at documenting findings, reporting technical issues, and improving workflows.
+Cybersecurity and Network+ certified student with a strong analytical mindset and dedication to troubleshooting and optimizing solutions. Skilled in computer networking, protocols and operating systems. Adept at documenting findings, reporting technical issues, and improving workflows.
 
 <!--
 **jhonatanparada499/jhonatanparada499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
