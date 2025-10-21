@@ -3,4 +3,4 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-A Cybersecurity, Network+ and Security+ certified student. 
+A cybersecurity researcher and student. CompTIA Network+ and Security+ certified.
