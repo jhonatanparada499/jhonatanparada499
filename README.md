@@ -14,7 +14,7 @@
 <h2>🙋🏻‍♂️ About Me</h2>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+<img src="https://img.shields.io/badge/operating_system-linux_mint-%2357A143.svg?logo=linux-mint&logoColor=white" alt="linux-mint" />
 <img src="https://img.shields.io/badge/code_editor-lazyvim-A855F7.svg?logo=neovim&logoColor=white" alt="code-editor" />
 <img src="https://img.shields.io/badge/version_control-lazygit-E44C30.svg?logo=git&logoColor=white" alt="version-control" />
 <img src="https://img.shields.io/badge/containers-docker-%230db7ed.svg?logo=docker&logoColor=white" alt="containers" />
