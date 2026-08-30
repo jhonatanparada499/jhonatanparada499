@@ -1,10 +1,14 @@
+<!-- HEADING SECTION -->
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=false&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40Jhonatanparada499" alt="Typing SVG" /></h1>
 
-<img src="https://komarev.com/ghpvc/?username=jhonatanparada499&label=Visitors&color=brightgreen&style=flat" alt="jhonatanparada499" />
-<img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" />
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jhonatanparada499">
-  <img src="https://img.shields.io/badge/Follow-vgnshiyer-0A66C2?logo=linkedin" alt="Follow Jhonatanparada499 on LinkedIn">
-</a>
+<!-- MISC SECTION -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jhonatanparada499&label=Visitors&color=brightgreen&style=flat" alt="jhonatanparada499" />
+  <img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" />
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jhonatanparada499">
+    <img src="https://img.shields.io/badge/Follow-jhonatanparada499-0A66C2?logo=linkedin" alt="Follow Jhonatanparada499 on LinkedIn">
+  </a>
+</p>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
