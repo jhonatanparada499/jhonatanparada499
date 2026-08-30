@@ -19,7 +19,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-A CS & Info Sec student. 2+ CompTIA certifications. 5+ months of experience in 2+ NYC agencies.
+- 5+ months of experience in 2+ NYC agencies.
+- 15+ months of experience in 2+ research projects 
+- 2+ CompTIA certifications. 
 
 <h2>📕 Projects I've Contributed To</h2>
 
