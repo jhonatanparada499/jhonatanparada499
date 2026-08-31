@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/operating_system-linux_mint-%2357A143.svg?logo=linux-mint&logoColor=white" alt="linux-mint" />
   <img src="https://img.shields.io/badge/code_editor-lazyvim-A855F7.svg?logo=neovim&logoColor=white" alt="code-editor" />
   <img src="https://img.shields.io/badge/version_control-lazygit-E44C30.svg?logo=git&logoColor=white" alt="version-control" />
-  <img src="https://img.shields.io/badge/containers-docker-%230db7ed.svg?logo=docker&logoColor=white" alt="containers" />
 </p>
 
 - 5+ months of experience in 2+ NYC agencies.
