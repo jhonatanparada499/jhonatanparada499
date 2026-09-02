@@ -30,6 +30,6 @@
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="left">
   <a href="https://github.com/jasonish/evebox"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonish&repo=evebox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="evebox"></a>
-  <a href="https://github.com/OISF/suricata"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OISF&repo=suricata&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="suricata"></a>
+  <!-- <a href="https://github.com/OISF/suricata"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=OISF&repo=suricata&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="suricata"></a> -->
   <a href="https://github.com/skills/code-with-codespaces"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skills&repo=code-with-codespaces&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true&show_description=true" alt="code-with-codespaces"></a>
 </p>
