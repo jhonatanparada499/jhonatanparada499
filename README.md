@@ -5,7 +5,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jhonatanparada499&label=Visitors&color=brightgreen&style=flat" alt="jhonatanparada499" />
   <img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" />
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jhonatanparada499">
+  <a href="https://www.linkedin.com/in/jhonatanparada499/">
     <img src="https://img.shields.io/badge/Follow-jhonatanparada499-0A66C2?logo=linkedin" alt="Follow Jhonatanparada499 on LinkedIn">
   </a>
 </p>
