@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/badge/version_control-lazygit-E44C30.svg?logo=git&logoColor=white" alt="version-control" />
 </p>
 
-- 5+ months of experience in 2+ NYC agencies.
-- 15+ months of experience in 2+ research projects 
-- 2+ CompTIA certifications. 
+I love creating high-level architecture diagrams and using keyboard-focused applications. My favorite chromium extension is [Vimium C](https://chromewebstore.google.com/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en).
 
 <h2>📕 Projects I've Contributed To</h2>
 
