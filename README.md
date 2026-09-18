@@ -1,15 +1,6 @@
 <!-- HEADING SECTION -->
 <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=D6543C&center=false&width=435&lines=Hi!%F0%9F%91%8B+I'm+%40Jhonatanparada499" alt="Typing SVG" /></h1>
 
-<!-- MISC SECTION -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jhonatanparada499&label=Visitors&color=brightgreen&style=flat" alt="jhonatanparada499" />
-  <img src="https://img.shields.io/badge/opensource-❤-red.svg" alt="opensource" />
-  <a href="https://www.linkedin.com/in/jhonatanparada499/">
-    <img src="https://img.shields.io/badge/Follow-jhonatanparada499-0A66C2?logo=linkedin" alt="Follow Jhonatanparada499 on LinkedIn">
-  </a>
-</p>
-
 <!-- ABOUT SECTION -->
 <h2>🙋🏻‍♂️ About Me</h2>
 
