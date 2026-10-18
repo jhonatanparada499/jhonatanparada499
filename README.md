@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/version_control-lazygit-E44C30.svg?logo=git&logoColor=white" alt="version-control" />
 </p>
 
-I love making architecture diagrams and using keyboard-focused applications--shout out to [Vimium C](https://chromewebstore.google.com/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=en).  
-
 <h2>📕 Projects I've Contributed To</h2>
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
